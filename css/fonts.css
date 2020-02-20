@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'MonotypeCorsiva';
+  src: url('../fonts/MonotypeCorsiva.woff') format('woff');
+  src: url('../fonts/8209.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body{
+	font-family: 'Actor', sans-serif;
+	font-family: 'Montserrat', sans-serif;
+	font-family: 'Berkshire Swash', cursive;
+}

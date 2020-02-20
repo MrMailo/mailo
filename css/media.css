@@ -1,0 +1,12 @@
+@media (max-width: 1210px) {
+	
+	input.inner__reg-fio[type="text"] {
+		padding: 20px 20px 20px 60px;
+	}
+	input.inner__reg-fio[type="tel"] {
+		padding: 20px 20px 20px 60px;
+	}
+	.inner__reg-application {
+		padding: 20px 100px 20px 83px;
+	}
+}
