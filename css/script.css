@@ -144,7 +144,7 @@ background: linear-gradient(90deg, #2F1F1C 0%, rgba(47, 31, 28, 0) 36.46%, rgba(
 
 
 .header__media-main {
-	background: linear-gradient(90deg, #2F1F1C 0%, rgba(47, 31, 28, 0) 36.46%, rgba(47, 31, 28, 0) 40.1%), linear-gradient(270deg, #2F1F1C 0%, rgba(47, 31, 28, 0.62) 33.33%, rgba(47, 31, 28, 0) 46.35%), linear-gradient(180deg, #2F1F1C 1.56%, rgba(47, 31, 28, 0) 46.35%, #2F1F1C 99.48%),     url(../img/bg-1.jpg);
+
 	background-repeat: no-repeat;
 	background-size: cover;
 	min-height: 630px;
